@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-data/config-data.iml" filepath="$PROJECT_DIR$/config-data/config-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-api/feign-api.iml" filepath="$PROJECT_DIR$/feign-api/feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-gateway/zuul-gateway.iml" filepath="$PROJECT_DIR$/zuul-gateway/zuul-gateway.iml" />
+    </modules>
+  </component>
+</project>
